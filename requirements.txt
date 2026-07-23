@@ -1,6 +1,5 @@
-gradio
+streamlit
 pandas
 numpy
 scikit-learn
-xgboost
 joblib
